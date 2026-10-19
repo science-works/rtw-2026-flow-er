@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [gjlee4921/flow-er](https://github.com/gjlee4921/flow-er).**
+>
+> Submitted version: [`e1db446`](https://github.com/science-works/rtw-2026-flow-er/tree/e1db4460362840376b980d5a0abbf02bfc787e80). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 # flow-er
 
 Flow cytometry gating that learns each lab's own gates from its data, with a review screen for the expert and an agent that plans the analysis with you.
